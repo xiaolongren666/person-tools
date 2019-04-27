@@ -1,5 +1,7 @@
 explorer.bat
 
-用途：
-关闭win10图形壳
+main application:
+close win10 explorer.exe process
+
+
 
